@@ -15,6 +15,8 @@
   </a>
 </p>
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=tankudo&show_icons=true&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
+
 <!--<details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=tankudo&langs_count=8&layout=compact" />
