@@ -16,6 +16,7 @@
 </p>
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=tankudo&show_icons=true&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankudo&layout=compact&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
 
 <!--<details>
   <summary>:zap: Statistics:</summary>
