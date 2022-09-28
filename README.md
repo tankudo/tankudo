@@ -1,8 +1,8 @@
 ### Welcome to my GitHub. I am Tatiana. 
 
-- I love to write code
+- I love coding and everything about computers
 
-- while I am not writing the code I take care of myself
+- While I am not writing the code I take care of myself
 	- Runing in the forest
 	- Meeting new people
 	- Reading in the cafe (yes, I love reading and food cooced for me)  
