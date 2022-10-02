@@ -5,7 +5,7 @@
 - While I am not writing the code I take care of myself
 	- Runing in the forest
 	- Meeting new people
-	- Reading in the cafe (yes, I love reading and food cooced for me)  
+	- Reading in the cafe (yes, I love to read and food cooked for me)  
 
 ### Languages 
 
@@ -15,8 +15,8 @@
   </a>
 </p>
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=tankudo&show_icons=true&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankudo&layout=compact&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
+<!--[![My stats](https://github-readme-stats.vercel.app/api?username=tankudo&show_icons=true&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankudo&layout=compact&theme=tokyonight)](https://github.com/tankudo/github-readme-stats)-->
 
 <!--<details>
   <summary>:zap: Statistics:</summary>
