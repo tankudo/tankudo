@@ -1,11 +1,11 @@
-### Welcome to my GitHub. I am Tatiana. 
-
 - I love coding and everything about computers
-	- My firs computer was Sinclair ZX Spectrum. One of the game I liked was [Nifty Leafly](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0t777qcH6AhX5wAIHHRoxC70QwqsBegQIChAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFQ9niRBBSZw&usg=AOvVaw3mpsu39AyNiPd6OZK_jKum). I could not play this game untill I wrote it in Java!
+	- My first computer was Sinclair ZX Spectrum. One of the games I liked was [Nifty Leafly](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0t777qcH6AhX5wAIHHRoxC70QwqsBegQIChAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFQ9niRBBSZw&usg=AOvVaw3mpsu39AyNiPd6OZK_jKum). I could not play this game for years until I wrote it in Java! Check pinned repos!
+
+- I fall in love with data while working in a biological laboratory. That is how I switch from wet lab to programming. From Bio Scince to Data Scince. From organized academic education to self-learner.
 
 - While I am not writing the code I take care of myself
-	- Runing in the forest
-	- Meeting new people
+	- Running in the forest
+	- Meeting old friends and new people
 	- Reading in the cafe (yes, I love to read and food cooked for me)  
 
 ### Languages 
